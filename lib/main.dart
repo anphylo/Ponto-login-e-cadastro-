@@ -1,23 +1,23 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp/ponto1app/generatedloginwidget/GeneratedLoginWidget.dart';
-import 'package:flutterapp/ponto1app/generatedregistrarwidget/GeneratedRegistrarWidget.dart';
-import 'package:flutterapp/ponto1app/generatedesqueciminhasenhawidget1/GeneratedEsqueciminhasenhaWidget1.dart';
-import 'package:flutterapp/ponto1app/generatedesqueciminhasenhawidget2/GeneratedEsqueciminhasenhaWidget2.dart';
-import 'package:flutterapp/ponto1app/generatedrectangle5widget/GeneratedRectangle5Widget.dart';
-import 'package:flutterapp/ponto1app/generatedtelainicialwidget/GeneratedTelainicialWidget.dart';
-import 'package:flutterapp/ponto1app/generatedcorreodopontowidget/GeneratedCorreodopontoWidget.dart';
-import 'package:flutterapp/ponto1app/generatedsaidawidget/GeneratedSaidaWidget.dart';
-import 'package:flutterapp/ponto1app/generatedcadastrowidget1/GeneratedCadastroWidget1.dart';
-import 'package:flutterapp/ponto1app/generatedmarcaodepontowidget1/GeneratedMarcaodePontoWidget1.dart';
-import 'package:flutterapp/ponto1app/generatedline11widget/GeneratedLine11Widget.dart';
-import 'package:flutterapp/ponto1app/generatedapresentaowidget/GeneratedApresentaoWidget.dart';
-import 'package:flutterapp/ponto1app/generatedtelainicialwidget2/GeneratedTelainicialWidget2.dart';
+import 'package:flutterapp/pontoapp/generatedloginwidget/GeneratedLoginWidget.dart';
+import 'package:flutterapp/pontoapp/generatedregistrarwidget/GeneratedRegistrarWidget.dart';
+import 'package:flutterapp/pontoapp/generatedesqueciminhasenhawidget1/GeneratedEsqueciminhasenhaWidget1.dart';
+import 'package:flutterapp/pontoapp/generatedesqueciminhasenhawidget2/GeneratedEsqueciminhasenhaWidget2.dart';
+import 'package:flutterapp/pontoapp/generatedrectangle5widget/GeneratedRectangle5Widget.dart';
+import 'package:flutterapp/pontoapp/generatedtelainicialwidget/GeneratedTelainicialWidget.dart';
+import 'package:flutterapp/pontoapp/generatedcorreodopontowidget/GeneratedCorreodopontoWidget.dart';
+import 'package:flutterapp/pontoapp/generatedsaidawidget/GeneratedSaidaWidget.dart';
+import 'package:flutterapp/pontoapp/generatedcadastrowidget1/GeneratedCadastroWidget1.dart';
+import 'package:flutterapp/pontoapp/generatedmarcaodepontowidget1/GeneratedMarcaodePontoWidget1.dart';
+import 'package:flutterapp/pontoapp/generatedline11widget/GeneratedLine11Widget.dart';
+import 'package:flutterapp/pontoapp/generatedapresentaowidget/GeneratedApresentaoWidget.dart';
+import 'package:flutterapp/pontoapp/generatedtelainicialwidget2/GeneratedTelainicialWidget2.dart';
 
 void main() {
-  runApp(ponto1App());
+  runApp(pontoApp());
 }
 
-class ponto1App extends StatelessWidget {
+class pontoApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
